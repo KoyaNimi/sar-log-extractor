@@ -17,7 +17,7 @@ extract_sar.ps1はこの構造のファイルに対応しています。
 ## 準備
 ### ディレクトリ構成
 C:\My Scripts  
-  ┝ extract_sar.ps1
+  ┝ extract_sar.ps1  
   ┝ sar_files ・・・ 事前に処理の対象となるsarファイルを格納  
   ┝ output    ・・・ 出力先フォルダ。処理を終えたファイルが自動格納  
 
